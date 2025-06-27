@@ -42,7 +42,7 @@ Core folder: ADL
 
 
 
-🎮 Setting Up the ADL Scene
+Setting Up the HandOD Scene:
 1. Duplicate Base Scene
 Start with the MultiObjectDetection scene 
 2. Add Grabbable Object
@@ -56,8 +56,6 @@ WebCamTextureManager
 Hand Prefab
 Marker Prefab
 Sentis components for model inference
-
-
 5. Enable Hand Tracking and websocket communication if needed
 Ensure hand tracking is enabled in XR Settings for Meta Quest.
 
