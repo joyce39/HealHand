@@ -19,7 +19,7 @@ Key features:
 
 Unity Project Structure:
 
-It can be found in the HealHand unity zip because of folder size constraints.
+It can be found in the HealHand unity zip on drive because of folder size constraints.
 
 Main Scene: HandOD
  Found at: Assets > PassthroughCameraApiSamples > MultiObjectDetection
